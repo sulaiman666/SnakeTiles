@@ -2,4 +2,5 @@
     <string name="app_name">Snake Tiles</string>
     <string name="judul_game">Snake Tiles</string>
     <string name="selesai">selesai</string>
+    <string name="player">player</string>
 </resources>

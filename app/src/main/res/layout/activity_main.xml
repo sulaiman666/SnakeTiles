@@ -37,7 +37,17 @@
                 card_view:cardCornerRadius="5dp"
                 card_view:cardElevation="2dp"
                 card_view:strokeColor="@color/black"
-                card_view:strokeWidth="5dp"></com.google.android.material.card.MaterialCardView>
+                card_view:strokeWidth="5dp">
+
+                <ImageView
+                    android:id="@+id/player_00"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center"
+                    android:contentDescription="@string/player"
+                    android:src="@drawable/player"
+                    android:visibility="gone" />
+            </com.google.android.material.card.MaterialCardView>
 
             <com.google.android.material.card.MaterialCardView
                 android:id="@+id/cd_tiles_01"
@@ -47,7 +57,17 @@
                 card_view:cardCornerRadius="5dp"
                 card_view:cardElevation="2dp"
                 card_view:strokeColor="@color/black"
-                card_view:strokeWidth="5dp"></com.google.android.material.card.MaterialCardView>
+                card_view:strokeWidth="5dp">
+
+                <ImageView
+                    android:id="@+id/player_01"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center"
+                    android:contentDescription="@string/player"
+                    android:src="@drawable/player"
+                    android:visibility="gone" />
+            </com.google.android.material.card.MaterialCardView>
 
             <com.google.android.material.card.MaterialCardView
                 android:id="@+id/cd_tiles_02"
@@ -57,7 +77,17 @@
                 card_view:cardCornerRadius="5dp"
                 card_view:cardElevation="2dp"
                 card_view:strokeColor="@color/black"
-                card_view:strokeWidth="5dp"></com.google.android.material.card.MaterialCardView>
+                card_view:strokeWidth="5dp">
+
+                <ImageView
+                    android:id="@+id/player_02"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center"
+                    android:contentDescription="@string/player"
+                    android:src="@drawable/player"
+                    android:visibility="gone" />
+            </com.google.android.material.card.MaterialCardView>
 
             <com.google.android.material.card.MaterialCardView
                 android:id="@+id/cd_tiles_03"
@@ -67,7 +97,17 @@
                 card_view:cardCornerRadius="5dp"
                 card_view:cardElevation="2dp"
                 card_view:strokeColor="@color/black"
-                card_view:strokeWidth="5dp"></com.google.android.material.card.MaterialCardView>
+                card_view:strokeWidth="5dp">
+
+                <ImageView
+                    android:id="@+id/player_03"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center"
+                    android:contentDescription="@string/player"
+                    android:src="@drawable/player"
+                    android:visibility="gone" />
+            </com.google.android.material.card.MaterialCardView>
 
             <com.google.android.material.card.MaterialCardView
                 android:id="@+id/cd_tiles_04"
@@ -77,7 +117,17 @@
                 card_view:cardCornerRadius="5dp"
                 card_view:cardElevation="2dp"
                 card_view:strokeColor="@color/black"
-                card_view:strokeWidth="5dp"></com.google.android.material.card.MaterialCardView>
+                card_view:strokeWidth="5dp">
+
+                <ImageView
+                    android:id="@+id/player_04"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center"
+                    android:contentDescription="@string/player"
+                    android:src="@drawable/player"
+                    android:visibility="gone" />
+            </com.google.android.material.card.MaterialCardView>
         </TableRow>
 
         <TableRow
@@ -93,7 +143,17 @@
                 card_view:cardCornerRadius="5dp"
                 card_view:cardElevation="2dp"
                 card_view:strokeColor="@color/black"
-                card_view:strokeWidth="5dp"></com.google.android.material.card.MaterialCardView>
+                card_view:strokeWidth="5dp">
+
+                <ImageView
+                    android:id="@+id/player_10"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center"
+                    android:contentDescription="@string/player"
+                    android:src="@drawable/player"
+                    android:visibility="gone" />
+            </com.google.android.material.card.MaterialCardView>
 
             <com.google.android.material.card.MaterialCardView
                 android:id="@+id/cd_tiles_11"
@@ -103,7 +163,17 @@
                 card_view:cardCornerRadius="5dp"
                 card_view:cardElevation="2dp"
                 card_view:strokeColor="@color/black"
-                card_view:strokeWidth="5dp"></com.google.android.material.card.MaterialCardView>
+                card_view:strokeWidth="5dp">
+
+                <ImageView
+                    android:id="@+id/player_11"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center"
+                    android:contentDescription="@string/player"
+                    android:src="@drawable/player"
+                    android:visibility="gone" />
+            </com.google.android.material.card.MaterialCardView>
 
             <com.google.android.material.card.MaterialCardView
                 android:id="@+id/cd_tiles_12"
@@ -113,7 +183,17 @@
                 card_view:cardCornerRadius="5dp"
                 card_view:cardElevation="2dp"
                 card_view:strokeColor="@color/black"
-                card_view:strokeWidth="5dp"></com.google.android.material.card.MaterialCardView>
+                card_view:strokeWidth="5dp">
+
+                <ImageView
+                    android:id="@+id/player_12"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center"
+                    android:contentDescription="@string/player"
+                    android:src="@drawable/player"
+                    android:visibility="gone" />
+            </com.google.android.material.card.MaterialCardView>
 
             <com.google.android.material.card.MaterialCardView
                 android:id="@+id/cd_tiles_13"
@@ -123,7 +203,17 @@
                 card_view:cardCornerRadius="5dp"
                 card_view:cardElevation="2dp"
                 card_view:strokeColor="@color/black"
-                card_view:strokeWidth="5dp"></com.google.android.material.card.MaterialCardView>
+                card_view:strokeWidth="5dp">
+
+                <ImageView
+                    android:id="@+id/player_13"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center"
+                    android:contentDescription="@string/player"
+                    android:src="@drawable/player"
+                    android:visibility="gone" />
+            </com.google.android.material.card.MaterialCardView>
 
             <com.google.android.material.card.MaterialCardView
                 android:id="@+id/cd_tiles_14"
@@ -133,7 +223,17 @@
                 card_view:cardCornerRadius="5dp"
                 card_view:cardElevation="2dp"
                 card_view:strokeColor="@color/black"
-                card_view:strokeWidth="5dp"></com.google.android.material.card.MaterialCardView>
+                card_view:strokeWidth="5dp">
+
+                <ImageView
+                    android:id="@+id/player_14"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center"
+                    android:contentDescription="@string/player"
+                    android:src="@drawable/player"
+                    android:visibility="gone" />
+            </com.google.android.material.card.MaterialCardView>
         </TableRow>
 
         <TableRow
@@ -149,7 +249,17 @@
                 card_view:cardCornerRadius="5dp"
                 card_view:cardElevation="2dp"
                 card_view:strokeColor="@color/black"
-                card_view:strokeWidth="5dp"></com.google.android.material.card.MaterialCardView>
+                card_view:strokeWidth="5dp">
+
+                <ImageView
+                    android:id="@+id/player_20"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center"
+                    android:contentDescription="@string/player"
+                    android:src="@drawable/player"
+                    android:visibility="gone" />
+            </com.google.android.material.card.MaterialCardView>
 
             <com.google.android.material.card.MaterialCardView
                 android:id="@+id/cd_tiles_21"
@@ -159,7 +269,17 @@
                 card_view:cardCornerRadius="5dp"
                 card_view:cardElevation="2dp"
                 card_view:strokeColor="@color/black"
-                card_view:strokeWidth="5dp"></com.google.android.material.card.MaterialCardView>
+                card_view:strokeWidth="5dp">
+
+                <ImageView
+                    android:id="@+id/player_21"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center"
+                    android:contentDescription="@string/player"
+                    android:src="@drawable/player"
+                    android:visibility="gone" />
+            </com.google.android.material.card.MaterialCardView>
 
             <com.google.android.material.card.MaterialCardView
                 android:id="@+id/cd_tiles_22"
@@ -169,7 +289,17 @@
                 card_view:cardCornerRadius="5dp"
                 card_view:cardElevation="2dp"
                 card_view:strokeColor="@color/black"
-                card_view:strokeWidth="5dp"></com.google.android.material.card.MaterialCardView>
+                card_view:strokeWidth="5dp">
+
+                <ImageView
+                    android:id="@+id/player_22"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center"
+                    android:contentDescription="@string/player"
+                    android:src="@drawable/player"
+                    android:visibility="gone" />
+            </com.google.android.material.card.MaterialCardView>
 
             <com.google.android.material.card.MaterialCardView
                 android:id="@+id/cd_tiles_23"
@@ -179,7 +309,17 @@
                 card_view:cardCornerRadius="5dp"
                 card_view:cardElevation="2dp"
                 card_view:strokeColor="@color/black"
-                card_view:strokeWidth="5dp"></com.google.android.material.card.MaterialCardView>
+                card_view:strokeWidth="5dp">
+
+                <ImageView
+                    android:id="@+id/player_23"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center"
+                    android:contentDescription="@string/player"
+                    android:src="@drawable/player"
+                    android:visibility="gone" />
+            </com.google.android.material.card.MaterialCardView>
 
             <com.google.android.material.card.MaterialCardView
                 android:id="@+id/cd_tiles_24"
@@ -189,7 +329,17 @@
                 card_view:cardCornerRadius="5dp"
                 card_view:cardElevation="2dp"
                 card_view:strokeColor="@color/black"
-                card_view:strokeWidth="5dp"></com.google.android.material.card.MaterialCardView>
+                card_view:strokeWidth="5dp">
+
+                <ImageView
+                    android:id="@+id/player_24"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center"
+                    android:contentDescription="@string/player"
+                    android:src="@drawable/player"
+                    android:visibility="gone" />
+            </com.google.android.material.card.MaterialCardView>
         </TableRow>
 
         <TableRow
@@ -205,7 +355,17 @@
                 card_view:cardCornerRadius="5dp"
                 card_view:cardElevation="2dp"
                 card_view:strokeColor="@color/black"
-                card_view:strokeWidth="5dp"></com.google.android.material.card.MaterialCardView>
+                card_view:strokeWidth="5dp">
+
+                <ImageView
+                    android:id="@+id/player_30"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center"
+                    android:contentDescription="@string/player"
+                    android:src="@drawable/player"
+                    android:visibility="gone" />
+            </com.google.android.material.card.MaterialCardView>
 
             <com.google.android.material.card.MaterialCardView
                 android:id="@+id/cd_tiles_31"
@@ -215,7 +375,17 @@
                 card_view:cardCornerRadius="5dp"
                 card_view:cardElevation="2dp"
                 card_view:strokeColor="@color/black"
-                card_view:strokeWidth="5dp"></com.google.android.material.card.MaterialCardView>
+                card_view:strokeWidth="5dp">
+
+                <ImageView
+                    android:id="@+id/player_31"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center"
+                    android:contentDescription="@string/player"
+                    android:src="@drawable/player"
+                    android:visibility="gone" />
+            </com.google.android.material.card.MaterialCardView>
 
             <com.google.android.material.card.MaterialCardView
                 android:id="@+id/cd_tiles_32"
@@ -225,7 +395,17 @@
                 card_view:cardCornerRadius="5dp"
                 card_view:cardElevation="2dp"
                 card_view:strokeColor="@color/black"
-                card_view:strokeWidth="5dp"></com.google.android.material.card.MaterialCardView>
+                card_view:strokeWidth="5dp">
+
+                <ImageView
+                    android:id="@+id/player_32"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center"
+                    android:contentDescription="@string/player"
+                    android:src="@drawable/player"
+                    android:visibility="gone" />
+            </com.google.android.material.card.MaterialCardView>
 
             <com.google.android.material.card.MaterialCardView
                 android:id="@+id/cd_tiles_33"
@@ -235,7 +415,17 @@
                 card_view:cardCornerRadius="5dp"
                 card_view:cardElevation="2dp"
                 card_view:strokeColor="@color/black"
-                card_view:strokeWidth="5dp"></com.google.android.material.card.MaterialCardView>
+                card_view:strokeWidth="5dp">
+
+                <ImageView
+                    android:id="@+id/player_33"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center"
+                    android:contentDescription="@string/player"
+                    android:src="@drawable/player"
+                    android:visibility="gone" />
+            </com.google.android.material.card.MaterialCardView>
 
             <com.google.android.material.card.MaterialCardView
                 android:id="@+id/cd_tiles_34"
@@ -245,7 +435,17 @@
                 card_view:cardCornerRadius="5dp"
                 card_view:cardElevation="2dp"
                 card_view:strokeColor="@color/black"
-                card_view:strokeWidth="5dp"></com.google.android.material.card.MaterialCardView>
+                card_view:strokeWidth="5dp">
+
+                <ImageView
+                    android:id="@+id/player_34"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center"
+                    android:contentDescription="@string/player"
+                    android:src="@drawable/player"
+                    android:visibility="gone" />
+            </com.google.android.material.card.MaterialCardView>
         </TableRow>
 
         <TableRow
@@ -261,7 +461,17 @@
                 card_view:cardCornerRadius="5dp"
                 card_view:cardElevation="2dp"
                 card_view:strokeColor="@color/black"
-                card_view:strokeWidth="5dp"></com.google.android.material.card.MaterialCardView>
+                card_view:strokeWidth="5dp">
+
+                <ImageView
+                    android:id="@+id/player_40"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center"
+                    android:contentDescription="@string/player"
+                    android:src="@drawable/player"
+                    android:visibility="gone" />
+            </com.google.android.material.card.MaterialCardView>
 
             <com.google.android.material.card.MaterialCardView
                 android:id="@+id/cd_tiles_41"
@@ -271,7 +481,17 @@
                 card_view:cardCornerRadius="5dp"
                 card_view:cardElevation="2dp"
                 card_view:strokeColor="@color/black"
-                card_view:strokeWidth="5dp"></com.google.android.material.card.MaterialCardView>
+                card_view:strokeWidth="5dp">
+
+                <ImageView
+                    android:id="@+id/player_41"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center"
+                    android:contentDescription="@string/player"
+                    android:src="@drawable/player"
+                    android:visibility="gone" />
+            </com.google.android.material.card.MaterialCardView>
 
             <com.google.android.material.card.MaterialCardView
                 android:id="@+id/cd_tiles_42"
@@ -281,7 +501,17 @@
                 card_view:cardCornerRadius="5dp"
                 card_view:cardElevation="2dp"
                 card_view:strokeColor="@color/black"
-                card_view:strokeWidth="5dp"></com.google.android.material.card.MaterialCardView>
+                card_view:strokeWidth="5dp">
+
+                <ImageView
+                    android:id="@+id/player_42"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center"
+                    android:contentDescription="@string/player"
+                    android:src="@drawable/player"
+                    android:visibility="gone" />
+            </com.google.android.material.card.MaterialCardView>
 
             <com.google.android.material.card.MaterialCardView
                 android:id="@+id/cd_tiles_43"
@@ -291,7 +521,17 @@
                 card_view:cardCornerRadius="5dp"
                 card_view:cardElevation="2dp"
                 card_view:strokeColor="@color/black"
-                card_view:strokeWidth="5dp"></com.google.android.material.card.MaterialCardView>
+                card_view:strokeWidth="5dp">
+
+                <ImageView
+                    android:id="@+id/player_43"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center"
+                    android:contentDescription="@string/player"
+                    android:src="@drawable/player"
+                    android:visibility="gone" />
+            </com.google.android.material.card.MaterialCardView>
 
             <com.google.android.material.card.MaterialCardView
                 android:id="@+id/cd_tiles_44"
@@ -301,7 +541,17 @@
                 card_view:cardCornerRadius="5dp"
                 card_view:cardElevation="2dp"
                 card_view:strokeColor="@color/black"
-                card_view:strokeWidth="5dp"></com.google.android.material.card.MaterialCardView>
+                card_view:strokeWidth="5dp">
+
+                <ImageView
+                    android:id="@+id/player_44"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center"
+                    android:contentDescription="@string/player"
+                    android:src="@drawable/player"
+                    android:visibility="gone" />
+            </com.google.android.material.card.MaterialCardView>
         </TableRow>
     </TableLayout>
 
@@ -311,15 +561,16 @@
 
         <LinearLayout
             android:id="@+id/container_updown"
-            android:layout_width="60dp"
+            android:layout_width="70dp"
             android:layout_height="wrap_content"
             android:layout_centerInParent="true"
             android:orientation="vertical">
 
             <Button
                 android:id="@+id/btn_up"
-                android:layout_width="match_parent"
+                android:layout_width="60dp"
                 android:layout_height="60dp"
+                android:layout_gravity="center"
                 android:layout_marginBottom="0dp"
                 android:background="@drawable/arrow"
                 android:stateListAnimator="@null"
@@ -328,6 +579,7 @@
             <Button
                 android:layout_width="60dp"
                 android:layout_height="60dp"
+                android:layout_gravity="center"
                 android:background="@color/white"
                 app:backgroundTint="@null" />
 
@@ -335,6 +587,7 @@
                 android:id="@+id/btn_bot"
                 android:layout_width="60dp"
                 android:layout_height="60dp"
+                android:layout_gravity="center"
                 android:background="@drawable/arrow"
                 android:rotation="180"
                 android:stateListAnimator="@null"
