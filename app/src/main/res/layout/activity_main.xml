@@ -9,15 +9,6 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginBottom="20dp"
-        android:gravity="center"
-        android:text="@string/judul_game"
-        android:textColor="@color/black"
-        android:textSize="24sp"
-        android:textStyle="bold" />
 
     <TableLayout
         android:layout_width="380dp"
